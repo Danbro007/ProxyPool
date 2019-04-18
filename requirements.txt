@@ -1,0 +1,5 @@
+pyquery==1.4.0
+fake_useragent==0.1.11
+aiohttp==3.5.4
+requests==2.19.1
+redis==2.10.6
